@@ -6,4 +6,6 @@ int func() {
   return 0;
 }
 
-void main() {}
+void main() {
+  print(func());
+}
