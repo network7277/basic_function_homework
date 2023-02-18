@@ -5,4 +5,6 @@ String func() {
   return "Hello World";
 }
 
-void main() {}
+void main() {
+  print(func());
+}
